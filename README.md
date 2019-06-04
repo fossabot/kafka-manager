@@ -23,6 +23,7 @@ It supports the following :
 Cluster Management
 
 ![cluster](/img/cluster.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fkafka-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fkafka-manager?ref=badge_shield)
 
 ***
 
@@ -227,3 +228,7 @@ License
 -------
 
 Apache Licensed. See accompanying LICENSE file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fkafka-manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fkafka-manager?ref=badge_large)
